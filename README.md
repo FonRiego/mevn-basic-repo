@@ -1,4 +1,4 @@
-# wrdn
+# mevn-basic-repo
 
 ## Project setup
 ```
